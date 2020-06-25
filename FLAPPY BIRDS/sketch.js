@@ -10,7 +10,7 @@ var position;
 
 function preload(){
   bg = loadImage("./images/background.png");
- 
+ rocket = loadImage("./images/rocket.png");
 }
 
 function setup() {
